@@ -4,4 +4,6 @@
 ## Lab1
 
 В данній лабораторній роботі ми просто встановлювали *IDE* , *JDK*, а також вивели у командний рядок та у термінал *IDE* фразу "***Hello World***":
-'System.out.println("Hello world");'
+''' java
+System.out.println("Hello world");
+'''
